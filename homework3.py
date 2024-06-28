@@ -4,5 +4,6 @@ age = 29
 print(age)
 new_age = 29+1
 print(new_age)
-a = 'is student'
-print(a, type(a))
+is_student=True
+a= 'is_student'
+print(a,':', is_student)
